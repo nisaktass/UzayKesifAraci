@@ -1,4 +1,4 @@
-# 🌌 Uzay Keşif ve Galaksi Simülasyonu
+# Uzay Keşif ve Galaksi Simülasyonu
 
 Java ile Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak geliştirilmiş bir uzay simülasyonu projesidir. 
 
@@ -6,6 +6,6 @@ Java ile Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak geliştiri
 * **Uzay Keşif Aracı:** Galaksi üzerinde koordinat tabanlı hareket eden ve keşif yapan araç mekanizması.
 * **OOP Mimarisi:** Tüm cisimlerin tek bir `Cisim` üst sınıfından türetildiği kalıtım (inheritance) ve çok biçimlilik (polymorphism) yapısı.
 
-## 🛠️ Teknolojiler
+## Teknolojiler
 * Java
 * Nesne Yönelimli Programlama (OOP)
